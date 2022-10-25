@@ -6,6 +6,13 @@ Usage
 Installation
 ------------
 
+Bristol, BAU no active project
+Bristol, BAU no active project
+Civista, in active sales talks, PPP only at this time
+Dollar, BAU no active project
+Kitsap, active DAO project, but also live with Term/Loc
+Pinnacle, PPP only
+
 To use Lumache, first install it using pip:
 
 .. code-block:: console
